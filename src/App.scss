@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+$bg-particle: url('../src/assets/images/particles.png');
+$bg-triangle: url('../src/assets/images/triangles.png');
+
+.App {
+
+  font-family: 'Ubuntu', sans-serif;
+  background: linear-gradient(135deg, hsla(171, 87%, 67%, 1) 0%, hsla(236, 100%, 72%, 1) 100%);
+  color: black;
+
+
+
+}
+
+// .sections {
+//   height: 100vh;
+//   width: 100%;
+//   height: calc(100vh - 70px);
+//   position: relative;
+
+//   * {
+//     width: 100vw;
+//     height: calc(100vh - 70px);
+//   }
+
+// }
+
+
+
+
+
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
