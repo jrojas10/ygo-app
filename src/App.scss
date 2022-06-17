@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
 
-$bg-particle: url('../src/assets/images/particles.png');
-$bg-triangle: url('../src/assets/images/triangles.png');
 
 .App {
 
   font-family: 'Ubuntu', sans-serif;
-  background: linear-gradient(135deg, hsla(171, 87%, 67%, 1) 0%, hsla(236, 100%, 72%, 1) 100%);
-  color: black;
+//background-image: linear-gradient(to top, #e14fad 0%, #f9d423 100%);
+background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
 
 
 
