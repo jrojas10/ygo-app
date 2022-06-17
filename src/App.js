@@ -1,6 +1,7 @@
 
-import './App.css';
+import './App.scss';
 import Header from './components/Header/Header';
+import { Route } from 'react-router-dom';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
     <div className='App'>
       <Header />
     </div>
+
 
   );
 }
