@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ygo-app/static/css/main.8b7809d3.css",
+    "main.js": "/ygo-app/static/js/main.83f2e08a.js",
+    "static/media/bg.png": "/ygo-app/static/media/bg.16e0e68432b616f6f928.png",
+    "index.html": "/ygo-app/index.html",
+    "main.8b7809d3.css.map": "/ygo-app/static/css/main.8b7809d3.css.map",
+    "main.83f2e08a.js.map": "/ygo-app/static/js/main.83f2e08a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b7809d3.css",
+    "static/js/main.83f2e08a.js"
+  ]
+}
