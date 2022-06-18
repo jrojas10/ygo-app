@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { FaYoutube, FaTwitter, FaInstagram } from 'react-icons/fa'
+import { FaYoutube, FaTwitter, FaInstagram, FaDiscord } from 'react-icons/fa'
 import "./Footer.scss"
 
 
@@ -16,6 +16,10 @@ class Footer extends Component {
                                 <svg className="bi" width="30" height="24"></svg>
                             </a>
                             <p>Follow Us</p>
+
+                            <a href="https://discord.gg/pxXSFgFR" target="_blank" rel="noreferrer" className="ml-3 text-muted text-decoration-none">
+                                <FaDiscord className="icon" />
+                            </a>
 
                             <a href="https://twitter.com/ygoGrandPrix" target="_blank" rel="noreferrer" className="ml-3 text-muted text-decoration-none">
                                 <FaTwitter className="icon" />
