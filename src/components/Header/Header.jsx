@@ -7,7 +7,7 @@ function Header() {
     return (
         <Navbar bg="dark" variant="dark" sticky="top">
             <div className="hdr">
-                <Navbar.Brand href="/">Home</Navbar.Brand>
+                <Navbar.Brand href="">Home</Navbar.Brand>
                 <Nav className="me-auto">
                     <Nav.Link href="#Information">Information</Nav.Link>
                     <Nav.Link href="#Register">Register</Nav.Link>
