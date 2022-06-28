@@ -1,3 +1,3 @@
 YGO Grand Prix website
 
-ygogp.com
+http://ygogp.com
