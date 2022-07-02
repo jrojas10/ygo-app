@@ -13,7 +13,7 @@ function Rules() {
                 <ul>
                     <li>All particpants will get a Ghosts From the Past: The 2nd Haunting Pack and their choice of OTS tournament pack 18 or 19</li>
                     <li>The format will be a swiss system with 4 rounds</li>
-                    <li>For every set won, the winnder will get a pack of Dimension Force booster pack</li>
+                    <li>For every set won, the winner will get a pack of Dimension Force booster pack</li>
                     <li>1st place gets a Dimension Force booster box</li>
                     <li>2nd &amp; 3rd each get half Dimension Force booster box</li>
                     <li>4th - 8th place get 2 Dimension Force booster packs</li>
@@ -30,7 +30,7 @@ function Rules() {
                     <li>1st place wins a Dimension Force booster box and Forbidden Droplett (UR)</li>
                     <li>2nd place gets Legendary Duelists: Duels from the deep booster box</li>
                     <li>3rd place gets 6 Dimension Force booster packs</li>
-                    <li>4th - 6th get 2 Diemension Force booster packs</li>
+                    <li>4th - 6th get 2 Dimension Force booster packs</li>
                 </ul>
             </ul>
         </div>
