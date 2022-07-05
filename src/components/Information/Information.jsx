@@ -18,9 +18,9 @@ function Information() {
                         Now it is our turn to host these tournaments and give others a chance to experience something we were not able to.
 
                     </p>
-                    <h2> First Tournament Scheduled July 10, 12:00 PM</h2>
+                    <h2> First Tournament Postponed until further notice, check back in August!</h2>
                     <h3>Location: 6427 Eastern Avenue, Bell Gardens - next to Allen English &amp; Estrada Funeral Services</h3>
-                    <h5> If You are interested, have questions, or want to provide feeback, fill out the form <a href='#Register'>HERE</a></h5>
+                    <h5> If You are interested in participating, have questions, or want to provide feeback, fill out the form <a href='#Register'>HERE</a></h5>
                     <h5> Please make sure the read the Rules and format below</h5>
 
 

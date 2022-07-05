@@ -8,7 +8,9 @@ function Rules() {
             <p> The tournament will follow the TCG banlist and we will adjust the price for entry and prizes based on number of entries. All duels will be a best out of 3, with a 40 minute time limit if needed.</p>
             <p>To give an opportunity to players that did not place high in the tournament, there will extra duels for packs at the end where 1st, 2nd, 3rd places cannot participate</p>
             <p> Free food and drinks</p>
-            <ul>
+
+            <h3>In Progress...</h3>
+            {/* <ul>
                 <li>If number of entries is between 8-15, the entry fee will be $10  </li>
                 <ul>
                     <li>All particpants will get a Ghosts From the Past: The 2nd Haunting Pack and their choice of OTS tournament pack 18 or 19</li>
@@ -32,7 +34,7 @@ function Rules() {
                     <li>3rd place gets 6 Dimension Force booster packs</li>
                     <li>4th - 6th get 2 Dimension Force booster packs</li>
                 </ul>
-            </ul>
+            </ul> */}
         </div>
     )
 }
